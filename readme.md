@@ -1,3 +1,4 @@
+```
 PSR 7 HTTP 消息接口
 此文档遵循 RFC 7230 、RFC 7231 、RFC 3986 三个规范为 HTTP 消息和 HTTP 消息中使用的 URI 定义了通用的接口
 
@@ -1512,3 +1513,4 @@ interface UploadedFileInterface
      */
     public function getClientMediaType();
 }
+```
